@@ -7,6 +7,12 @@ Pada folder Template, terdapat file format GIMP (xcf) yang dapat diedit. Tersedi
 
 contoh hasil
 
+Photo Horizontal
+
+![Alt text](https://github.com/kukuhtw/watermark_for_photo_selfie_ktp/blob/main/results_watermarks/sim1.jpg?raw=true)
+
+Photo Vertical
+
 ![Alt text](https://github.com/kukuhtw/watermark_for_photo_selfie_ktp/blob/main/results_watermarks/sim1_selfie.jpg?raw=true)
 
 
