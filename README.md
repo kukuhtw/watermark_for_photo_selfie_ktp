@@ -5,3 +5,8 @@ Agar foto yang dikirimkan tidak disalah gunakan untuk keperluan lain, selain ver
 
 Pada folder Template, terdapat file format GIMP (xcf) yang dapat diedit. Tersedia images template untuk photo horizontal dan photo vertical
 
+contoh hasil
+
+![Alt text](https://github.com/kukuhtw/watermark_for_photo_selfie_ktp/blob/main/results_watermarks/sim1_selfie.jpg?raw=true)
+
+
